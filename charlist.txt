@@ -1,5 +1,5 @@
 # Latin characters used in African languages
-# Caractères latin utilisés en langues africaines
+# Caractères latins utilisés en langues africaines
 # 2012-03-03
 # [A-Za-z]
 U+0041
