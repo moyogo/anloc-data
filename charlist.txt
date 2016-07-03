@@ -264,9 +264,10 @@ U+0324
 U+0327
 U+0329
 U+032D
+U+032F
 U+0330
 U+0331
-U+0332 
+U+0332
 # Combining Diacritical Marks Supplement
 U+1DC4
 U+1DC5
